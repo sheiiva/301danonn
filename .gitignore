@@ -1,0 +1,20 @@
+############################################
+#                MATHEMATICS               #
+############################################
+#                                          #
+#           COUTRET-ROZET Corentin         #
+#                                          #
+#           Project : 301dannon            #
+#                                          #
+############################################
+
+*__pycache__
+*vscode*
+tmp
+
+# PYTESTS
+
+# PYTHON
+htmlcov
+.coverage
+.pytest_cache
